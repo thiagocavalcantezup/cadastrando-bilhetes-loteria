@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CadastrandoBilhetesLoteriaApplication<cadastrando-bilhetes-loteria>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.zup.handora.cadastrandobilhetesloteria.CadastrandoBilhetesLoteriaApplication",
+      "projectName": "cadastrando-bilhetes-loteria",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
